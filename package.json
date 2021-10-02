@@ -1,11 +1,12 @@
 {
-  "name": "strapi-provider-upload-local-path",
-  "version": "3.6.1-alpha.13",
-  "description": "Local provider for strapi upload path",
+  "name": "strapi-provider-upload-local-tuxy",
+  "version": "3.18.3",
+  "description": "Local provider for strapi upload tuxy",
   "keywords": [
     "upload",
     "strapi",
-    "path"
+    "provider",
+    "tuxy"
   ],
   "directories": {
     "lib": "./lib"
@@ -15,25 +16,25 @@
     "isProvider": true
   },
   "author": {
-    "email": "dusanscensny@gmail.com",
+    "email": "tuxyvarman@gmail.com",
     "name": "Package owner"
   },
   "maintainers": [
     {
-      "email": "dusanscensny@gmail.com",
+      "email": "tuxyvarman@gmail.com",
       "name": "Package owner"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dusanscensny/strapi-provider-upload-local-path"
+    "url": "git+https://github.com/tuxyvarman/strapi-provider-upload-local-tuxy"
   },
   "bugs": {
-    "url": "https://github.com/dusanscensny/strapi-provider-upload-local-path/issues"
+    "url": "https://github.com/tuxyvarman/strapi-provider-upload-local-tuxy/issues"
   },
   "engines": {
-    "node": ">=10.16.0",
-    "npm": ">=6.0.0"
+    "node": ">=16.10.0",
+    "npm": ">=7.24.0"
   },
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
