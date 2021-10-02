@@ -12,7 +12,7 @@
 
 This package create possiblilty for use configurable path. The key for this package is to: 
 Package use a copy of code: 
-https://github.com/francoislongatte/strapi-provider-upload-local-folder/blob/master/lib/index.js
+https://github.com/dusanscensny/strapi-provider-upload-local-path/blob/master/lib/index.js
 
 1. Reads the path from the environment variables.
 
