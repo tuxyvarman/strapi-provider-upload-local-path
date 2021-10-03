@@ -1,43 +1,43 @@
 {
-  "name": "strapi-provider-upload-local-tuxy",
-  "version": "3.18.3",
-  "description": "Local provider for strapi upload tuxy",
-  "keywords": [
-    "upload",
-    "strapi",
-    "provider",
-    "tuxy"
-  ],
-  "directories": {
-    "lib": "./lib"
-  },
-  "main": "./lib",
-  "strapi": {
-    "isProvider": true
-  },
-  "author": {
-    "email": "tuxyvarman@gmail.com",
-    "name": "Package owner"
-  },
-  "maintainers": [
-    {
-      "email": "tuxyvarman@gmail.com",
-      "name": "Package owner"
+    "name": "strapi-provider-upload-local-tuxy",
+    "version": "1.10.2.11",
+    "description": "Local provider for strapi upload tuxy",
+    "keywords": [
+        "upload",
+        "strapi",
+        "provider",
+        "tuxy"
+    ],
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./lib",
+    "strapi": {
+        "isProvider": true
+    },
+    "author": {
+        "email": "tuxyvarman@gmail.com",
+        "name": "Package owner"
+    },
+    "maintainers": [
+        {
+            "email": "tuxyvarman@gmail.com",
+            "name": "Package owner"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tuxyvarman/strapi-provider-upload-local-tuxy"
+    },
+    "bugs": {
+        "url": "https://github.com/tuxyvarman/strapi-provider-upload-local-tuxy/issues"
+    },
+    "engines": {
+        "node": ">=16.10.0",
+        "npm": ">=7.24.0"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "scripts": {
+        "test": "echo \"no tests yet\""
     }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tuxyvarman/strapi-provider-upload-local-tuxy"
-  },
-  "bugs": {
-    "url": "https://github.com/tuxyvarman/strapi-provider-upload-local-tuxy/issues"
-  },
-  "engines": {
-    "node": ">=16.10.0",
-    "npm": ">=7.24.0"
-  },
-  "license": "SEE LICENSE IN LICENSE",
-  "scripts": {
-    "test": "echo \"no tests yet\""
-  }
 }
